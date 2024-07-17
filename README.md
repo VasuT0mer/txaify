@@ -1,2 +1,2 @@
-# txaify
+# taxify
 Simplifying calculation of tax
